@@ -35,3 +35,4 @@ st.subheader("Über das Modell und die Daten")
 
 "- Global Carbon Project. (2021). Supplemental data of Global Carbon Project 2021 (1.0) [Data set]. Global Carbon Project. https://doi.org/10.18160/gcp-2021"
 "- Andrew, Robbie M., & Peters, Glen P. (2021). The Global Carbon Project's fossil CO2 emissions dataset [Data set]. Zenodo. https://doi.org/10.5281/zenodo.5569235"
+#%%
